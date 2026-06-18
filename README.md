@@ -3,6 +3,7 @@
 Estudante de Ciência da Computação
 
 Olá! Me chamo Antony Afonso Cunico Carneiro, tenho 19 anos e sou apaixonado por tecnologia. Atualmente, estou cursando Ciência da Computação, buscando constantemente aprender e aplicar novos conhecimentos em projetos inovadores.
+
 <p align="left">
 <a href="https://github.com/antonycunicocarneiro-lgtm?tab=repositories&sort=stargazers">
         <img 
